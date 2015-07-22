@@ -1,0 +1,23 @@
+{
+  "name": "webpack-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-libs-browser": "^0.5.2",
+    "webpack": "^1.10.1"
+  },
+  "devDependencies": {
+    "css-loader": "^0.15.5",
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.6",
+    "style-loader": "^0.12.3",
+    "webpack": "^1.10.1",
+    "webpack-dev-server": "^1.10.1"
+  }
+}
